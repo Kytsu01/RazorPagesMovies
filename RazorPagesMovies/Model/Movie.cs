@@ -12,5 +12,7 @@ namespace RazorPagesMovies.Movies
         public DateTime ReleaseDate { get; set; }
         public string Gender { get; set; } = string.Empty;
         public decimal Price { get; set; }
+
+        public int Rate { get; set; } = 0;
     }
 }
