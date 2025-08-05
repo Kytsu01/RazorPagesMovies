@@ -6,6 +6,8 @@ namespace RazorPagesMovies.Movies
     {
         public int ID { get; set; }
         public string Title { get; set; } = string.Empty;
+
+        [Display(Name = "Release Date")]
         [DataType(DataType.Date)]
         public DateTime ReleaseDate { get; set; }
         public string Gender { get; set; } = string.Empty;
