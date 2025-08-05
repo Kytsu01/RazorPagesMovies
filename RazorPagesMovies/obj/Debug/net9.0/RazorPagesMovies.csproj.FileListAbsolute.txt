@@ -337,3 +337,4 @@ C:\Users\Kytsu\Desktop\Projetos\RazorPagesMovies\RazorPagesMovies\RazorPagesMovi
 C:\Users\Kytsu\Desktop\Projetos\RazorPagesMovies\RazorPagesMovies\RazorPagesMovies\obj\Debug\net9.0\RazorPagesMovies.genruntimeconfig.cache
 C:\Users\Kytsu\Desktop\Projetos\RazorPagesMovies\RazorPagesMovies\RazorPagesMovies\obj\Debug\net9.0\ref\RazorPagesMovies.dll
 C:\Users\Kytsu\Desktop\Projetos\RazorPagesMovies\RazorPagesMovies\RazorPagesMovies\obj\Debug\net9.0\RazorPagesMovies.sourcelink.json
+C:\Users\Kytsu\Desktop\Projetos\RazorPagesMovies\RazorPagesMovies\RazorPagesMovies\obj\Debug\net9.0\compressed\0vcahz74mc-5kvmoe0iz4.gz
